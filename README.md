@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |  Ravishanmugam K        |  CB.SC.U4AIE24347      |      Male       |             AIE                 |  
+|    Member 2     |  Sharvesh Sivagnanam    |  CB.SC.U4AIE24355      |      Male       |             AIE                 |  
+|    Member 3     |  Meghana Kotharu        |  CB.SC.U4AIE24232      |     Female      |             AIE                 |  
+|    Member 4     |  Pedamallu Sai Mrudula  |  CB.SC.U4AIE24340      |     Female      |             AIE                 |   
+|    Member 5     |  M K Bhargava Sri Sai   |  CB.SC.U4CSE24268      |      Male       |             CSE                 |  
+|    Member 6     |  Akhilan S              |  CB.SC.U4AIE24362      |      Male       |             AIE                 |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |   Abhijith A        |  Assistant Professor  |             AIE         | a_abhijith@cb.amrita.edu |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26037**
+* **Problem Statement Title: Adaptive Path Planning and Collision Avoidance for Autonomous Vehicles on Unstructured Indian Roads**
+* **Theme / Category: Robotics and Drones / Software**
+* **Ministry / Organization: Mathworks **, wherever applicable
 
 #### PS#2
 
