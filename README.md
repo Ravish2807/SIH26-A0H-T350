@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T350
 ### Team Details
-#### **Team Name** <<Pixels>> <br/>
+#### **Team Name** Pixels <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
