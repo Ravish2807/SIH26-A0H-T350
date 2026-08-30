@@ -34,7 +34,7 @@
 * **Problem Statement ID: SIH26037**
 * **Problem Statement Title: Adaptive Path Planning and Collision Avoidance for Autonomous Vehicles on Unstructured Indian Roads**
 * **Theme / Category: Robotics and Drones / Software**
-* **Ministry / Organization: Mathworks **, wherever applicable
+* **Ministry / Organization: Mathworks**, wherever applicable
 
 #### PS#2
 
