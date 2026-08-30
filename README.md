@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |   Abhijith A        |  Assistant Professor  |             AIE         | a_abhijith@cb.amrita.edu |
+| Academic       |   Dr.Abhijith A     |Assistant Professor,AVV|   Amrita School of AI   | a_abhijith@cb.amrita.edu |
 | Industry       |                     |                       |                         |                          |
 
 -----
