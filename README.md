@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |  Ravishanmugam K        |  CB.SC.U4AIE24347      |      Male       |    School of AI/B.Tech CSE-AI   |  
-|    Member 2     |  Sharvesh Sivagnanam    |  CB.SC.U4AIE24355      |      Male       |    School of AI/B.Tech CSE-AI   |     
-|    Member 3     |  M K Bhargava Sri Sai   |  CB.SC.U4CSE24268      |      Male       |  School of Computing/B.Tech CSE |  
-|    Member 4     |  Akhilan S              |  CB.SC.U4AIE24362      |      Male       |   School of AI/B.Tech CSE-AI    |
-|    Member 5     |  Meghana Kotharu        |  CB.SC.U4AIE24232      |     Female      |   School of AI/B.Tech CSE-AI    |  
-|    Member 6     |  Pedamallu Sai Mrudula  |  CB.SC.U4AIE24340      |     Female      |   School of AI/B.Tech CSE-AI    |
+|   Team Leader   |  Ravishanmugam K        |  CB.SC.U4AIE24347      |      Male       |               AIE               |  
+|    Member 2     |  Sharvesh Sivagnanam    |  CB.SC.U4AIE24355      |      Male       |               AIE               |     
+|    Member 3     |  M K Bhargava Sri Sai   |  CB.SC.U4CSE24268      |      Male       |  CSE |  
+|    Member 4     |  Akhilan S              |  CB.SC.U4AIE24362      |      Male       |               AIE               |
+|    Member 5     |  Meghana Kotharu        |  CB.SC.U4AIE24232      |     Female      |               AIE               |  
+|    Member 6     |  Pedamallu Sai Mrudula  |  CB.SC.U4AIE24340      |     Female      |               AIE               |
 
 #### Mentor Details
 
