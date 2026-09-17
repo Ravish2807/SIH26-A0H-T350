@@ -42,3 +42,5 @@
 * **Problem Statement Title: Safe and Efficient Operation of Mine Vehicles in Fog and LowVisibility Conditions in Open Cast Iron Ore Mines.**
 * **Theme / Category: Smart Automation / Hardware**
 * **Ministry / Organization: Ministry of Steel**, wherever applicable
+
+Youtube Presentation Video Link : https://youtu.be/aibyzNdhOeM
