@@ -16,7 +16,7 @@
 |    Member 3     |  M K Bhargava Sri Sai   |  CB.SC.U4CSE24268      |      Male       |  CSE                            |                |       None         |
 |    Member 4     |  Akhilan S              |  CB.SC.U4AIE24362      |      Male       |               AIE               |      MBC          |       None         |
 |    Member 5     |  Meghana Kotharu        |  CB.SC.U4AIE24232      |     Female      |               AIE               |      OC        |       None         |
-|    Member 6     |  Pedamallu Sai Mrudula  |  CB.SC.U4AIE24340      |     Female      |               AIE               |                |       None         |
+|    Member 6     |  Pedamallu Sai Mrudula  |  CB.SC.U4AIE24340      |     Female      |               AIE               |      OC        |       None         |
 
 #### Mentor Details
 
